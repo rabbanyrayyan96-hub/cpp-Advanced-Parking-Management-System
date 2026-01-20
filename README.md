@@ -1,2 +1,2 @@
 # cpp-Advanced-Parking-Management-System
-Sebuah aplikasi yang mensimulasikan system manajemen parkir pada gedung bertingkat dengan beberapa zona (Regular, EV, VIP). . Aplikasi menerapkan OOP seutuhnya: inheritance untuk tipe kendaraan/slot, overriding/overloading untuk perhitungan tarif dan operasi, polymorphism untuk koleksi heterogeny, dan exception handling yang rapi
+An application that simulates a parking management system in a multi-story building with several zones (Regular, EV, VIP). The application fully implements OOP: inheritance for vehicle/slot types, overriding/overloading for rate calculations and operations, polymorphism for heterogeneous collections, and neat exception handling.
